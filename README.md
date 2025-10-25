@@ -48,7 +48,7 @@ It combines **motion-driven storytelling** with smooth scroll-based animations a
 💎 **Animated Clip Paths** — Dynamic shapes revealing bundles, agents, and transitions.  
 🖤 **Reactive Motion Layers** — GSAP-powered parallax and scroll triggers with smooth 3D depth.  
 📱 **Responsive Design** — Tailored for all viewports, from gaming laptops to mobile screens.  
-🌟 **Custom Font Integration** — Valorant + Zentry + Circular Web combo for an authentic pro aesthetic.
+🌟 **Custom Font Integration** — Valorant + Circular Web combo for an authentic pro aesthetic.
 
 ---
 
