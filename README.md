@@ -1,7 +1,7 @@
 <div align="center">
 
-  <a href="https://valorant.com" target="_blank">
-    <img src="https://github.com/user-attachments/assets/8f63a50b-94df-4b03-a9a3-2b4e0dbd5a7d" alt="Valorant Showcase Banner" />
+  <a href="https://valopal.netlify.app" target="_blank">
+    <h2>valopal.netlify.app>/h2>
   </a>
 
   <br />
