@@ -44,8 +44,6 @@ It combines **motion-driven storytelling** with smooth scroll-based animations a
 ---
 
 ##  Features
-
-✨ **Cinematic Valorant Loader** — A Valorant “V” logo animation intro before loading the main site.  
 ⚔️ **Esports Capsule Layout** — Inspired by *NRG 2025*, featuring gold glow borders, sharp UI cuts, and glowing edge animations.  
 💎 **Animated Clip Paths** — Dynamic shapes revealing bundles, agents, and transitions.  
 🖤 **Reactive Motion Layers** — GSAP-powered parallax and scroll triggers with smooth 3D depth.  
