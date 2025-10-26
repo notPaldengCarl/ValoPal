@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://valopal.netlify.app" target="_blank">
-    <h2>valopal.netlify.app</h2>
+    <h2>Link: https://valopal.netlify.app</h2>
   </a>
 
   <br />
